@@ -5,7 +5,7 @@ A program to support the performance of a Telegram bot.
 # installation
 
 ```bash
-git clone https://github.com/NamesysF/BotKeep
+git clone https://github.com/namesysf/botkeep
 ```
 ```bash
 cd BotKeep
