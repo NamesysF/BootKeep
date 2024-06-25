@@ -1,4 +1,4 @@
-# BootKeep: description
+# BotKeep: description
 The program contributes to maintaining the effective performance of a Telegram bot using Termux.
 
 
