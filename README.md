@@ -5,7 +5,7 @@ The program contributes to maintaining the effective performance of a Telegram b
 # How it works?
 The program runs the "nohup python botname.py" command 100 times, which allows the bot to work even when you do not have an Internet connection.
 
-<img width="49.0%" src="https://drive.google.com/file/d/1p7gTiLz9QcRSLmBNfaVMx7ZtHItJbEZd/view?usp=drivesdk"/>
+<img width="49.0%" src="https://drive.google.com/file/d/1sdlRyMLqANVVJtdGtFR0cNyaDUXhhczB/view?usp=drivesdk"/>
 
 # Installation
 ```bash
